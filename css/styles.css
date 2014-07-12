@@ -31,7 +31,7 @@ h2 {
 } 
 header h1 {
 	float:left;
-	padding:75px 0 0 0;
+	padding:35px 0 0 0;
 }
 header h1 a {
 	font-size: 36px;
@@ -148,7 +148,7 @@ ul#navlist {
 	float:left;
 }
 #navlist a {
-	padding:90px 10px 10px 10px;
+	padding:50px 10px 10px 10px;
 	color: #444444;
 	text-transform:uppercase;
 	text-decoration:none;
